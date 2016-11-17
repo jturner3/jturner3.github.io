@@ -159,6 +159,11 @@ header {
   text-align: center;
   color: white;
 }
+footer {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
 header .header-content {
   position: relative;
   text-align: center;
